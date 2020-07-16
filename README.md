@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[](./profile.jpg)
+
 - 🔭 I’m currently working on:
 
   - An issue tracking system in python
