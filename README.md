@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on:
 
-  - Your open-source project!
+  - <strong>Your open-source project!</strong>
   - Contact me!
 
 - 📫 How to reach me:
