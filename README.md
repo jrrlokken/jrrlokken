@@ -31,12 +31,14 @@
 *************
 
 <br />
-
-### - Languages and Tools...
+            
+<h3 align="center">Tools and Languages<h3>
 
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top, margin-x:4px">
+<br />
 <img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top, margin-x:4px">
 <img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top, margin-x:4px">
 <img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top, margin:4px">
@@ -44,10 +46,10 @@
 <img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top, margin:4px">
 <br />
 <img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top, margin:4px">
+<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/nodejs_larger.svg" alt="nodejs" style="vertical-align:top, margin-x:4px">
 <img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top, margin:4px">
 <br />
 <img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top, margin:4px">
 
-
-
 </p>
+</div>
