@@ -24,9 +24,9 @@
 
 - 📫 How to reach me:
 
-  [<img src="svg/social/gmail.svg" alt="html" style="veritcal-align:top, margin:4px">](mailto:jrrlokken@gmail.com)
+  [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/gmail.svg" alt="html" style="veritcal-align:top, margin:4px">](mailto:jrrlokken@gmail.com)
   
-  [<img src="svg/social/twitter.svg" alt="html" style="veritcal-align:top, margin:4px">](https://twitter.com/joshualokken)
+  [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/twitter.svg" alt="html" style="veritcal-align:top, margin:4px">](https://twitter.com/joshualokken)
 
 *************
 
