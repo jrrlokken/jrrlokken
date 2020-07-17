@@ -24,9 +24,9 @@
 
 - 📫 How to reach me:
 
-  [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/gmail.svg" alt="html" style="veritcal-align:top, margin:4px">](mailto:jrrlokken@gmail.com)
+  [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/gmail.svg" alt="html" style="vertical-align:top, margin:4px">](mailto:jrrlokken@gmail.com)
   
-  [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/twitter.svg" alt="html" style="veritcal-align:top, margin:4px">](https://twitter.com/joshualokken)
+  [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/twitter.svg" alt="html" style="vertical-align:top, margin:4px">](https://twitter.com/joshualokken)
 
 *************
 
@@ -37,16 +37,16 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/html.svg" alt="html" style="veritcal-align:top, margin:4px">
-<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/css3.svg" alt="css" style="veritcal-align:top, margin:4px">
-<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="veritcal-align:top, margin:4px">
-<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="veritcal-align:top, margin:4px">
-<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/materialize.svg" alt="materialize" style="veritcal-align:top, margin:4px">
+<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top, margin-x:4px">
+<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top, margin-x:4px">
+<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top, margin:4px">
+<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top, margin:4px">
+<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top, margin:4px">
 <br />
-<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/js.svg" alt="javascript" style="veritcal-align:top, margin:4px">
-<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/react.svg" alt="react" style="veritcal-align:top, margin:4px">
+<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top, margin:4px">
+<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top, margin:4px">
 <br />
-<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/python.svg" alt="python" style="veritcal-align:top, margin:4px">
+<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top, margin:4px">
 
 
 
