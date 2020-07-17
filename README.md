@@ -1,13 +1,13 @@
 ### Howdy, Folks! 👋
 
-- 🔭 I’m currently working on:
+🔭 I’m currently working on:
 
-  - An issue tracking system in python
+  - An [issue tracking system](https://github.com/jrrlokken/issue-tracking-system) in python
 
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
 
   - JavaScript/HTML/CSS
-    - Testing with Jasmine
+     - Testing with Jasmine
   - Python/Flask
     - SQLAlchemy
     - WTForms
@@ -17,12 +17,12 @@
   - React
   - Redux
 
-- 👯 I’m looking to collaborate on:
+👯 I’m looking to collaborate on:
 
   - <strong>Your open-source project!</strong>
-  - Contact me!
+  - <strong>Your TEAM!</strong>
 
-- 📫 How to reach me:
+📫 How to reach me:
 
   [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/gmail.svg" alt="html" style="vertical-align:top, margin:4px">](mailto:jrrlokken@gmail.com)
   
