@@ -37,7 +37,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="svg/dev/languages/html.svg" alt="html" style="veritcal-align:top, margin:4px">
+<img src="https://github.com/jrrlokken/jrrlokken/svg/dev/languages/html.svg" alt="html" style="veritcal-align:top, margin:4px">
 <img src="svg/dev/languages/css3.svg" alt="css" style="veritcal-align:top, margin:4px">
 <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="veritcal-align:top, margin:4px">
 <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="veritcal-align:top, margin:4px">
