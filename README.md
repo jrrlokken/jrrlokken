@@ -27,6 +27,9 @@
   [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/gmail.svg" alt="html" style="vertical-align:top, margin:4px">](mailto:jrrlokken@gmail.com)
   
   [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/twitter.svg" alt="html" style="vertical-align:top, margin:4px">](https://twitter.com/joshualokken)
+  
+  [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/linkedin.svg" alt="html" style="vertical-align:top, margin:4px">](https://linkedin.com/in/joshualokken)
+
 
 *************
 
