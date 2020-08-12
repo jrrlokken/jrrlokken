@@ -30,6 +30,7 @@
   
   [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/linkedin.svg" alt="html" style="vertical-align:top, margin:4px">](https://linkedin.com/in/joshualokken)
 
+🔭 - My [resume](https://velocv.com/jrrlokken)
 
 *************
 
