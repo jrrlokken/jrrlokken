@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on:
 
-  - An [issue tracking system](https://github.com/jrrlokken/issue-tracking-system) in python
+  - An [issue tracking system](https://flask-its.herokuapp.com) in python
 
 🌱 I’m currently learning:
 
