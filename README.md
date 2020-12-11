@@ -2,7 +2,10 @@
 
 🔭 I’m currently working on:
 
+  - Volunteering as a web developer for [AsylumConnect](https://asylumconnect.org)
+    You can check out our primary app [here](https://catalog.asylumconnect.org)
   - An [issue tracking system](https://flask-its.herokuapp.com) in python
+  - A SpaceX launch information site
 
 🌱 I’m currently learning:
 
@@ -16,6 +19,7 @@
   - Express
   - React
   - Redux
+  - Data Structures and Algorithms
 
 👯 I’m looking to collaborate on:
 
