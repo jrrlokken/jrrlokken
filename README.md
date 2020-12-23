@@ -2,6 +2,8 @@
 
 My Projects:
   - An [issue tracking system](https://flask-its.herokuapp.com) in Python
+  - [Jobly](https://jrlokken-jobly.herokuapp.com) - All your jobs are belong to us :)
+  - An [audio production website](https://jasonwoodsmusic.now.sh) mockup
   
   
 🔭 I’m currently working on:
