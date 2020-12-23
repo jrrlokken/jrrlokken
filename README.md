@@ -1,26 +1,27 @@
 # Howdy, Folks! 👋
 
+My Projects:
+  - An [issue tracking system](https://flask-its.herokuapp.com) in Python
+  
+  
 🔭 I’m currently working on:
 
   - Volunteering as a web developer for [AsylumConnect](https://asylumconnect.org)
     You can check out our primary app [here](https://catalog.asylumconnect.org)
-  - An [issue tracking system](https://flask-its.herokuapp.com) in python
-  - A SpaceX launch information site
+  - A full-stack store website using React, Node, Express, Postgres and GraphQL
 
 🌱 I’m currently learning:
 
   - JavaScript/HTML/CSS
-     - Testing with Jasmine
-  - Python/Flask
-    - SQLAlchemy
-    - WTForms
-    - Testing with unittest
+  - Python
   - Node.js
   - Express
   - React
   - Redux
   - Data Structures and Algorithms
-
+  - GraphQL
+  - MongoDB/Mongoose
+  
 👯 I’m looking to collaborate on:
 
   - <strong>Your open-source project!</strong>
