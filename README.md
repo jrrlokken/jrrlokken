@@ -23,6 +23,7 @@ My Projects:
   - Data Structures and Algorithms
   - GraphQL
   - MongoDB/Mongoose
+  - React Native
   
 👯 I’m looking to collaborate on:
 
