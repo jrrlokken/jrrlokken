@@ -4,8 +4,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 My Projects:
-  - An [issue tracking system](https://flask-its.herokuapp.com) in Python
-  - An [audio production website](https://jasonwoodsmusic.now.sh) mockup
+  - An <a href='https://flask-its.herokuapp.com' target='_blank'>issue tracking system</a> in Python
+  - An <a href='https://jasonwoodsmusic.now.sh' target='_blank'>audio production website</a> mockup
   
   
 🔭 I’m currently working on:
