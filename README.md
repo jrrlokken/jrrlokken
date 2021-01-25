@@ -1,4 +1,7 @@
 # Howdy, Folks! 👋
+## I'm Joshua Lokken
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 My Projects:
   - An [issue tracking system](https://flask-its.herokuapp.com) in Python
