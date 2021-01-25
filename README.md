@@ -2,7 +2,6 @@
 
 My Projects:
   - An [issue tracking system](https://flask-its.herokuapp.com) in Python
-  - [Jobly](https://jrlokken-jobly.herokuapp.com) - All your jobs are belong to us :)
   - An [audio production website](https://jasonwoodsmusic.now.sh) mockup
   
   
@@ -10,7 +9,7 @@ My Projects:
 
   - Volunteering as a web developer for [AsylumConnect](https://asylumconnect.org)
     You can check out our primary app [here](https://catalog.asylumconnect.org)
-  - A full-stack store website using React, Node, Express, Postgres and GraphQL
+  - A full-stack store website using React, Node, Express, MongoDB and GraphQL
 
   
 👯 I’m looking to collaborate on:
@@ -33,6 +32,7 @@ My Projects:
 <br />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrrlokken&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+This week I spent my time on:
 <!--START_SECTION:waka-->
 ```text
 JavaScript   7 hrs 41 mins   ████████████████████░░░░░   80.20 % 
