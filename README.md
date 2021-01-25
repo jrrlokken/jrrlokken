@@ -31,10 +31,6 @@ My Projects:
 *************
 
 <br />
-            
-<h3 align="center">Tools and Languages<h3>
-
-<p align="center">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
