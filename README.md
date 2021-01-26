@@ -1,7 +1,9 @@
 # Howdy, Folks! 👋
 ## I'm Joshua Lokken
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/joshualokken)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joshualokken/)
 
 My Projects:
   - An <a href='https://flask-its.herokuapp.com' target='_blank'>issue tracking system</a> in Python
@@ -23,10 +25,6 @@ My Projects:
 📫 How to reach me:
 
   [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/gmail.svg" alt="html" style="vertical-align:top, margin:4px">](mailto:jrrlokken@gmail.com)
-  
-  [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/twitter.svg" alt="html" style="vertical-align:top, margin:4px">](https://twitter.com/joshualokken)
-  
-  [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/linkedin.svg" alt="html" style="vertical-align:top, margin:4px">](https://linkedin.com/in/joshualokken)
 
 🔭 - My [resume](https://velocv.com/jrrlokken)
 
