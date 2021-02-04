@@ -24,7 +24,7 @@ My Projects:
 
 📫 How to reach me:
 
-  [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/gmail.svg" alt="html" style="vertical-align:top, margin:4px">](mailto:jrrlokken@gmail.com)
+  [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/email_me.svg" alt="html" style="vertical-align:top, margin:4px">](mailto:joshualokken@pm.me)
 
 🔭 - My [resume](https://velocv.com/jrrlokken)
 
