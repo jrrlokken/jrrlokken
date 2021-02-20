@@ -6,7 +6,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joshualokken/)
 
 My Projects:
-  - An <a href='https://flask-its.herokuapp.com' target='_blank'>issue tracking system</a> in Python
+  - A <a href='https://maskup.joshualokken.tech' target='_blank'>full-stack face mask marketplace</a> with Keystone.js and React
+  - An <a href='https://its.joshualokken.tech' target='_blank'>issue tracking system</a> in Python
   - An <a href='https://jasonwoodsmusic.now.sh' target='_blank'>audio production website</a> mockup
   
   
@@ -14,7 +15,6 @@ My Projects:
 
   - Volunteering as a web developer for [AsylumConnect](https://asylumconnect.org)
     You can check out our primary app [here](https://catalog.asylumconnect.org)
-  - A full-stack store website using React, Node, Express, MongoDB and GraphQL
 
   
 👯 I’m looking to collaborate on:
