@@ -15,6 +15,8 @@ My Projects:
 
   - Volunteering as a web developer for [AsylumConnect](https://asylumconnect.org)
     You can check out our primary app [here](https://catalog.asylumconnect.org)
+  - Learning the ins and outs of React and state management
+  - Participating in 100 Days of Code :)
 
   
 👯 I’m looking to collaborate on:
