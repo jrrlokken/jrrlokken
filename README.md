@@ -42,7 +42,6 @@ My Projects:
 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 37 mins    ███████████████████████▓░   94.22 % 
-Python       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
