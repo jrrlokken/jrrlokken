@@ -42,7 +42,6 @@ My Projects:
 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   16 mins         ████████████████▒░░░░░░░░   64.69 % 
-JavaScript   8 mins          ████████░░░░░░░░░░░░░░░░░   32.31 % 
+
 ```
 <!--END_SECTION:waka-->
