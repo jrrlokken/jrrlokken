@@ -17,7 +17,7 @@ My Projects:
     You can check out our primary app [here](https://catalog.asylumconnect.org).
   - Learning the ins and outs of React and state management
   - Improving my Linux administration skills
-  - Participating in 100 Days of Code :)
+  - Learning Angular :)
   - Building a portfolio, current working version [here](https://www.joshualokken.me).  It will evolve over time.  Currently a static site build with HTML, CSS and JavaScript.
 
   
