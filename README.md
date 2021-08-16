@@ -16,7 +16,7 @@ My Projects:
   - Learning the ins and outs of React and state management
   - Improving my Linux administration skills
   - Learning Angular :)
-  - Building a portfolio, current working version [here](https://www.joshualokken.me).  It will evolve over time.  Currently a static site build with HTML, CSS and JavaScript.
+  - Building a portfolio, current working version [here](https://www.joshualokken.me).  It will evolve over time.  Currently React and TailwindCSS.
 
   
 👯 I’m looking to collaborate on:
