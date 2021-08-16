@@ -28,7 +28,7 @@ My Projects:
 
   [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/email_me.svg" alt="html" style="vertical-align:top, margin:4px">](mailto:joshualokken@pm.me)
 
-🔭 - My [resume](https://velocv.com/jrrlokken)
+<!-- 🔭 - My [resume](https://velocv.com/jrrlokken) -->
 
 *************
 <br />
