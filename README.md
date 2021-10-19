@@ -1,5 +1,5 @@
 # Howdy, Folks! 👋
-## I'm <a href='https://joshualokken.me' target='_blank' rel='noreferrer'>Joshua Lokken</a>
+## I'm [Joshua Lokken](https://joshualokken.me){:target="_blank"}
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joshualokken/)
 
