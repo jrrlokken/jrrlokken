@@ -15,7 +15,7 @@ My Projects:
     You can check out our primary app [here](https://catalog.asylumconnect.org).
   - Learning the ins and outs of React and state management
   - Improving my Linux administration skills
-  - Learning Angular :)
+  - Advancing my knowledge of APIs and Node.js
   - Building a portfolio, current working version [here](https://www.joshualokken.me).  It will evolve over time.  Currently React and TailwindCSS.
 
   
