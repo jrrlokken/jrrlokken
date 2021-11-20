@@ -13,10 +13,10 @@ My Projects:
 
   - Volunteering as a web developer for [AsylumConnect](https://asylumconnect.org).
     You can check out our primary app [here](https://catalog.asylumconnect.org).
-  - Learning the ins and outs of React and state management
+  - Docker and Kubernetes
   - Improving my Linux administration skills
   - Advancing my knowledge of APIs and Node.js
-  - Building a portfolio, current working version [here](https://www.joshualokken.me).  It will evolve over time.  Currently React and TailwindCSS.
+  - Typescript
 
   
 👯 I’m looking to collaborate on:
