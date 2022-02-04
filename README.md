@@ -3,10 +3,10 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joshualokken/)
 
-My Projects:
+<!-- My Projects:
   - A <a href='https://maskup.joshualokken.tech' target='_blank' rel='noreferrer'>full-stack face mask marketplace</a> with Keystone.js and React
   - An <a href='https://its.joshualokken.tech' target='_blank' rel='noreferrer'>issue tracking system</a> in Python
-  - An <a href='https://jasonwoodsmusic.now.sh' target='_blank' rel='noreferrer'>audio production website</a> mockup
+  - An <a href='https://jasonwoodsmusic.now.sh' target='_blank' rel='noreferrer'>audio production website</a> mockup -->
   
   
 🔭 I’m currently working on:
@@ -14,8 +14,8 @@ My Projects:
   - Volunteering as a web developer for [AsylumConnect](https://asylumconnect.org).
     You can check out our primary app [here](https://catalog.asylumconnect.org).
   - Docker and Kubernetes
-  - Improving my Linux administration skills
-  - Advancing my knowledge of APIs and Node.js
+  - React Native
+  - Advancing my knowledge of Node.js
   - Typescript
 
   
