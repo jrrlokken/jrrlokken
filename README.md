@@ -13,10 +13,9 @@
 
   - Volunteering as a web developer for [AsylumConnect](https://asylumconnect.org).
     You can check out our primary app [here](https://catalog.asylumconnect.org).
-  - Docker and Kubernetes
+  - Everything Node.js
+  - Building a family reunion web application
   - React Native
-  - Advancing my knowledge of Node.js
-  - Typescript
 
   
 👯 I’m looking to collaborate on:
