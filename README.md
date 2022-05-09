@@ -11,8 +11,6 @@
   
 🔭 I’m currently working on:
 
-  - Volunteering as a web developer for [AsylumConnect](https://asylumconnect.org).
-    You can check out our primary app [here](https://catalog.asylumconnect.org).
   - Everything Node.js
   - Building a family reunion web application
   - React Native
