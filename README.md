@@ -12,7 +12,7 @@
 🔭 I’m currently working on:
 
   - Everything Node.js
-  - Building a family reunion web application
+  - Building a <a href='https://lokkenreunion.herokuapp.com' target='_blank' rel='noreferrer>family reunion web application</a>
   - React Native
 
   
