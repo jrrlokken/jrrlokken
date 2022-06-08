@@ -12,8 +12,9 @@
 🔭 I’m currently working on:
 
   - Everything Node.js
-  - Building a [family reunion web application](https://lokkenreunion.herokuapp.com)
+  - Building a [family reunion web application](https://lokken-reunion.herokuapp.com)
   - React Native
+  - Angular
 
   
 👯 I’m looking to collaborate on:
