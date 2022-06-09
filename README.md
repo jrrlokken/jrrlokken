@@ -26,7 +26,7 @@
 
   [<img src="https://github.com/jrrlokken/jrrlokken/blob/master/svg/social/email_me.svg" alt="html" style="vertical-align:top, margin:4px">](mailto:joshualokken@pm.me)
 
-🔭 - My [resume](https://joshualokken.me)
+🔭 - My [resume](https://portfolio.joshualokken.tech)
 
 *************
 <!-- <br />
