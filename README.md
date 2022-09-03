@@ -13,7 +13,7 @@
 
   - Everything Node.js
   - Building a [family reunion web application](https://lokken-reunion.herokuapp.com)
-  - React Native
+  - Typescript
   - Angular
 
   
