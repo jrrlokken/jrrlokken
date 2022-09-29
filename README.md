@@ -15,6 +15,7 @@
   - AWS Lambda
   - Typescript
   - React Native
+  - AWS CCP certification
 
   
 👯 I’m looking to collaborate on:
