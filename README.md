@@ -12,7 +12,7 @@
 🔭 I’m currently working on:
 
   - Everything Node.js
-  - AWS Lambda
+  - Web Components
   - Typescript
   - React Native
   - AWS CCP certification
