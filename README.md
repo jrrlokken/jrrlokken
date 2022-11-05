@@ -6,16 +6,16 @@
 <!-- My Projects:
   - A <a href='https://maskup.joshualokken.tech' target='_blank' rel='noreferrer'>full-stack face mask marketplace</a> with Keystone.js and React
   - An <a href='https://its.joshualokken.tech' target='_blank' rel='noreferrer'>issue tracking system</a> in Python
-  - An <a href='https://jasonwoodsmusic.now.sh' target='_blank' rel='noreferrer'>audio production website</a> mockup -->
-  
+  - A <a href='https://docucode.joshualokken.tech' target='_blank' rel='noreferrer'>code documentation tool</a>
+  - A <a href='https://lokken-reunion.herokuapp.com' target='_blank' rel='noreferrer'> family reunion site</a>
+  -->
+  I've successfully completed my first Amazon certification:  AWS Certified Cloud Practitioner!
   
 🔭 I’m currently working on:
 
   - Everything Node.js
   - Web Components
   - Typescript
-  - React Native
-  - AWS CCP certification
 
   
 👯 I’m looking to collaborate on:
