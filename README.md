@@ -16,6 +16,7 @@
   - Everything Node.js
   - Web Components
   - Typescript
+  - AWS Certified Developer Associate
 
   
 👯 I’m looking to collaborate on:
